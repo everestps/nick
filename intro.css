@@ -10,23 +10,27 @@ body { background-color:#CC9933}
 	border-radius: 100px;
 }
 
+#one{ transition:all .8s ease;} #one:hover{background-color:#336666;}
+
 #two{
 	height: 20px;
 	width: 100px;
 	border: 2px solid black;
 	background-color: #CCFF33 ;
 	border-radius: 100px;
-
-	
 }
+#two{ transition:all .8s ease;} #two:hover{background-color:#336666;}
+
+
 #three{
 	height: 20px;
 	width: 100px;
 	border: 2px solid black;
 	background-color: #CCFF33 ;
 	border-radius: 100px;
-
 }
+
+#three{ transition:all .8s ease;} #three:hover{background-color:#336666;}
 
 #four{
 	height: 20px;
@@ -34,9 +38,9 @@ body { background-color:#CC9933}
 	border: 2px solid black;
 	background-color: #CCFF33 ;
 	border-radius: 100px;
-	
-
 }
+#four{ transition:all .8s ease;} #four:hover{background-color:#336666;}
+
 
 #five{
 	height: 1000px;
