@@ -95,13 +95,16 @@ z-index:-1;
  #five {
 	height: 500px;
 	width: 1200px;
+    font-color: white;
 	border: 2px solid black;
 	border-radius: 5px;
 	background-color: #006600;
 float: right}
 	
-	a {color:#330066; text-decoration:none}
+	a {color:#000033; text-decoration:none}
 p { text-align: left}
+a:hover {color:#CC3300}
+
 
 
 
