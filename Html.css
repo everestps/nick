@@ -1,5 +1,7 @@
 img {height:400px; width:200; text-align:center;}
 
+body {background-image: url("http://www.loschavezmexicangrille.com/wp-content/uploads/2013/01/website-background-full-hd-backgrounds-vintage-red-661979.jpg");
+}
 
 
 #navbar {
@@ -11,7 +13,8 @@ img {height:400px; width:200; text-align:center;}
 	height: 100px;
 	width: 200px;
 	border: 2px solid black;
-	background-color: #CC6633 ;
+	opacity: 0.8;
+	background: #CC6633;
 	display:inline-block;
 
 	margin-top: -10}
@@ -111,7 +114,6 @@ a:hover {color:#CC3300}
 h1 {border: 8px solid black;
 background-color: #CC6633}
 
-body { background-color:#CC9933}
-    
+
     
     
